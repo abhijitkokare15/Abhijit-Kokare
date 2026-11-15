@@ -2,31 +2,44 @@
 
 # Hi, I'm Abhijit Kokare 👋
 
-**Aspiring software developer | Learning by building practical projects**
+**Java & Full-Stack Developer in Progress | DSA Enthusiast | Problem Solver**
 
-[GitHub](https://github.com/abhijitkokare15) · [Featured project](https://github.com/abhijitkokare15/SwasthyaSetu)
+[GitHub](https://github.com/abhijitkokare15) • [SwasthyaSetu](https://github.com/abhijitkokare15/SwasthyaSetu)
 
 </div>
 
-## About me
+## About Me
+I am a passionate developer focused on building practical software solutions and continuously improving my skills in Java, backend development, frontend technologies, and data structures. I enjoy working on projects that solve real-world problems and strengthen my understanding of software engineering.
 
-I enjoy turning ideas into useful software and improving through hands-on projects. I’m currently building my experience through collaborative and personal work, and I’m open to connecting about internships, entry-level opportunities, and projects.
+## Core Skills
+- Java
+- JavaScript
+- React
+- Spring Boot
+- Hibernate
+- JDBC
+- REST APIs
+- Servlet & JSP
+- Data Structures & Algorithms
+- Git & GitHub
+- Full-Stack Development
 
-## Featured project
-
+## Featured Projects
 ### [SwasthyaSetu](https://github.com/abhijitkokare15/SwasthyaSetu)
-A project developed for the **Smart India Hackathon (SIH)**. Visit the repository to explore the project and its implementation.
+A project developed as part of the Smart India Hackathon, focusing on building a practical solution for real-world needs.
 
-## What I’m looking for
+### [OIBSIP](https://github.com/abhijitkokare15/OIBSIP)
+Hands-on project work focused on learning and implementing software solutions in a practical environment.
 
-- Opportunities to contribute, learn, and grow as a developer
-- Teams working on thoughtful, practical software
-- Connections with recruiters and fellow builders
+## What I'm Looking For
+- Internship opportunities
+- Entry-level software development roles
+- Backend/full-stack developer roles
+- Opportunities to learn and contribute in collaborative teams
 
-## Get in touch
-
-The easiest way to reach me is through [GitHub](https://github.com/abhijitkokare15).
+## Contact
+- GitHub: [abhijitkokare15](https://github.com/abhijitkokare15)
 
 ---
 
-*Thanks for stopping by. I’m continuing to build and share my work here.*
+"Building projects, learning continuously, and growing toward a career in software development."
